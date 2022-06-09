@@ -10,7 +10,8 @@ Topics include
 * bioinformatics to build general AI
 * ontologies and explainability
 
-## Dates
+## Where and when?
+ROBI will take place at [ICBO | https://icbo-conference.github.io/icbo2022/call-for-submissions/] in Ann Arbor, Michigan, USA.
 
 decide...
 
