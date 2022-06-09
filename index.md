@@ -1,4 +1,4 @@
-## The role of ontologies in biomedical aI (ROBI)
+# ROBI: First Workshop on the Role of Ontologies in Biomedical aI 
 
 Some text/overview
 
