@@ -11,7 +11,7 @@ Topics include
 * ontologies and explainability
 
 ## Where and when?
-ROBI will take place at [ICBO | https://icbo-conference.github.io/icbo2022/call-for-submissions/] in Ann Arbor, Michigan, USA.
+ROBI will take place at the [International Conference on Biological and Biomedical Ontologies (ICBO)](https://icbo-conference.github.io/icbo2022/call-for-submissions/) in Ann Arbor, Michigan, USA.
 
 decide...
 
