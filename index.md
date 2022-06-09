@@ -7,6 +7,8 @@ Topics include
 * neural reasoning with biomedical ontologies
 * ontologies and Natural Language Processing
 * using machine learning for ontology evaluation
+* bioinformatics to build general AI
+* ontologies and explainability
 
 ## Dates
 
