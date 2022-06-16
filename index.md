@@ -44,4 +44,6 @@ Short paper
   King Abdullah University of Science and Technology
 * [George Gkoutos](https://www.birmingham.ac.uk/staff/profiles/cancer-genomic/gkoutos-georgios.aspx),
   University of Birmingham
+* [Paul Schofield](https://www.pdn.cam.ac.uk/directory/paul-schofield),
+  University of Cambridge
 
