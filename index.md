@@ -40,10 +40,8 @@ Short paper
 
 ## Organizing Committee and Contact
 
-* (Robert
-  Hoehndorf)[https://www.kaust.edu.sa/en/study/faculty/robert-hoehndorf],
+* [Robert Hoehndorf](https://www.kaust.edu.sa/en/study/faculty/robert-hoehndorf),
   King Abdullah University of Science and Technology
-* (George
-  Gkoutos)[https://www.birmingham.ac.uk/staff/profiles/cancer-genomic/gkoutos-georgios.aspx],
+* [George Gkoutos](https://www.birmingham.ac.uk/staff/profiles/cancer-genomic/gkoutos-georgios.aspx),
   University of Birmingham
 
