@@ -30,7 +30,7 @@ in Ann Arbor, Michigan, USA.
 
 ## Contribute to ROBI
 
-Easychair...
+Submit your research through Easychair: https://easychair.org/conferences/?conf=robi2022
 
 Poster
 
