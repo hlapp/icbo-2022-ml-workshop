@@ -28,15 +28,18 @@ and Biomedical Ontologies
 (ICBO)](https://icbo-conference.github.io/icbo2022/call-for-submissions/)
 in Ann Arbor, Michigan, USA. 
 
+Important dates:
+* Submission: tbd
+* Decision: tbd
+* Workshop date: tbd
+
 ## Contribute to ROBI
+
+We accept submissions in the format of Short Papers (up to 5 pages),
+Position papers (up to 5 pages), and Poster Abstracts (1 page).
 
 Submit your research through Easychair: https://easychair.org/conferences/?conf=robi2022
 
-Poster
-
-Position paper
-
-Short paper
 
 ## Organizing Committee and Contact
 
