@@ -38,7 +38,7 @@ Important dates:
 We accept submissions in the format of Short Papers (up to 5 pages),
 Position papers (up to 5 pages), and Poster Abstracts (1 page).
 
-Submit your research through Easychair: https://easychair.org/conferences/?conf=robi2022
+Submit your research: [Easychair link](https://easychair.org/conferences/?conf=robi2022)
 
 
 ## Organizing Committee and Contact
