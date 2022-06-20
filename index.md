@@ -21,6 +21,8 @@ Example questions we would like to answer in the workshop are
 * How does ontology consistency impact machine learning?
 * What is missing from bio-ontologies for them to have more impact on
   AI methods?
+* How can we leverage machine learning to improve the bio-ontology
+  ecosystem?
 
 Topics of interest include
 * ontologies, graph embeddings, ontology embeddings
