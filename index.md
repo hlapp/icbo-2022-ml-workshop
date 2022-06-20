@@ -12,6 +12,15 @@ their structure, and underlying conceptualization. We will discuss how
 ontologies can contribute to build more comprehensive AI models that
 utilize domain knowledge, provide explanations understandable to
 domain experts, and identify consistency with scientific knowledge.
+Of particular interest is how research on biomedical ontologies can be
+leveraged to improve AI.
+
+Example questions we would like to answer in the workshop are
+* Does the improvement in ontology quality in the past years reflect
+  their impact on machine learning methods?
+* How does ontology consistency impact machine learning?
+* What is missing from bio-ontologies for them to have more impact on
+  AI methods?
 
 Topics of interest include
 * ontologies, graph embeddings, ontology embeddings
