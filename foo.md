@@ -1,4 +1,4 @@
-# ROBI: First Workshop on the Role of Ontologies in Biomedical AI
+# Tutorial \& Workshop on the Role of Ontologies in Biomedical AI
 
 Ontologies and Linked Data resources are pervasive throughout the life
 sciences wher hundreds of ontologies are used in almost every major
@@ -34,22 +34,21 @@ Topics of interest include
 * neuro-symbolic integration in biomedicine
 
 ## Where and when?
-ROBI will take place at the [International Conference on Biological
+The workshop will take place at the [International Conference on Biological
 and Biomedical Ontologies
 (ICBO)](https://icbo-conference.github.io/icbo2022/call-for-submissions/)
 in Ann Arbor, Michigan, USA. 
 
 Important dates:
-* Submission: tbd
-* Decision: tbd
-* Workshop date: tbd
+* Submission: 
+* Workshop date: 25 September 2022
 
 ## Contribute to ROBI
 
-We accept submissions in the format of Short Papers (up to 5 pages),
-Position papers (up to 5 pages), and Poster Abstracts (1 page).
+We accept submissions of Position Papers (up to 5 pages) and Abstracts
+(1 page).
 
-Submit your research: [Easychair link](https://easychair.org/conferences/?conf=robi2022)
+Submission link: [Easychair link](https://easychair.org/conferences/?conf=robi2022)
 
 
 ## Organizing Committee and Contact
@@ -58,6 +57,4 @@ Submit your research: [Easychair link](https://easychair.org/conferences/?conf=r
   King Abdullah University of Science and Technology
 * [George Gkoutos](https://www.birmingham.ac.uk/staff/profiles/cancer-genomic/gkoutos-georgios.aspx),
   University of Birmingham
-* [Paul Schofield](https://www.pdn.cam.ac.uk/directory/paul-schofield),
-  University of Cambridge
 
