@@ -1,4 +1,4 @@
-# Tutorial \& Workshop on the Role of Ontologies in Biomedical AI
+# Tutorial & Workshop on the Role of Ontologies in Biomedical AI
 
 Ontologies and Linked Data resources are pervasive throughout the life
 sciences wher hundreds of ontologies are used in almost every major
