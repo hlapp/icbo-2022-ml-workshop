@@ -1,7 +1,7 @@
 # Tutorial & Workshop on the Role of Ontologies in Biomedical AI (ROBI)
 
 Ontologies and Linked Data resources are pervasive throughout the life
-sciences wher hundreds of ontologies are used in almost every major
+sciences where hundreds of ontologies are used in almost every major
 biological database for the formal characterization of data and the
 integration of knowledge. Methods that allow incorporating the
 knowledge in ontologies in biomedical data analysis and particular
@@ -40,13 +40,13 @@ and Biomedical Ontologies
 in Ann Arbor, Michigan, USA. 
 
 Important dates:
-* Submission: 
+* Submission: 30 August 2022
 * Workshop date: 25 September 2022
 
 ## Contribute to ROBI
 
 We accept submissions of Position Papers (up to 5 pages) and Abstracts
-(1 page).
+(1 page). All submissions will be considered for oral presentation.
 
 Submission link: [Easychair link](https://easychair.org/conferences/?conf=robi2022)
 
