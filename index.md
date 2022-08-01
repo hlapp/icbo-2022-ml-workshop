@@ -45,8 +45,9 @@ Important dates:
 
 ## Contribute to ROBI
 
-We accept submissions of Position Papers (up to 5 pages) and Abstracts
-(1 page). All submissions will be considered for oral presentation.
+We accept submissions of Position or Research Papers (up to 5 pages)
+and Abstracts (1 page). All submissions will be considered for oral
+presentation.
 
 Submission link: [Easychair link](https://easychair.org/conferences/?conf=robi2022)
 
