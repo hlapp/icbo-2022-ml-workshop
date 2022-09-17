@@ -40,8 +40,30 @@ and Biomedical Ontologies
 in Ann Arbor, Michigan, USA. 
 
 Important dates:
-* Submission: 30 August 2022
+* Submission: ~~30 August 2022~~
 * Workshop date: 25 September 2022
+
+## Program
+
+The workshop takes place on 25 September in the afternoon,
+1:30-5:00. We will start with presentations of research and position
+papers, followed by a discussion session.
+
+* 1:30 - 1:40: Opening
+* 1:40 - 2:00: **Knowledge graphs and Explainable AI
+  for Drug Repurposing on Rare Diseases**. *Pablo Perdomo Quinteiro, Katherine Wolstencroft, Marco
+  Roos and Núria Queralt Rosinach*
+* 2:00 - 2:20: **Investigating Ontology Use in Artificial Intelligence
+  and Machine Learning for Biomedical Research - A Preliminary Report
+  from A Comprehensive Literature Review** *Asiyah Lin, Tianming Ning,
+  Paulene Grier, Lalisa Mariam Lin and Andrey Ibrahim Seleznev*
+* 2:00 - 2:40: **Testing Ontology Embedding Visualization**. *John
+  Kausch*
+* 2:40 - 3:00: **Ontology Alignment through graph projection, machine learning, and
+  iterative inconsistency removal**. *Sarah Alghamdi, Fernando
+  Zhapa-Camacho and Robert Hoehndorf*.
+* 3:00 - 3:15: Coffee break
+
 
 ## Contribute to ROBI
 
