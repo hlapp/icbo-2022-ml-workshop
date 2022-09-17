@@ -33,16 +33,6 @@ Topics of interest include
 * biomedical ontologies in general AI
 * neuro-symbolic integration in biomedicine
 
-## Where and when?
-The workshop will take place at the [International Conference on Biological
-and Biomedical Ontologies
-(ICBO)](https://icbo-conference.github.io/icbo2022/call-for-submissions/)
-in Ann Arbor, Michigan, USA. 
-
-Important dates:
-* Submission: ~~30 August 2022~~
-* Workshop date: 25 September 2022
-
 ## Program
 
 The workshop takes place on 25 September in the afternoon,
@@ -65,6 +55,16 @@ papers, followed by a discussion session.
 * 3:00 - 3:15: Coffee break
 * 3:15 - 4:15: Panel discussion
 * 4:15: open discussion
+
+## Where and when?
+The workshop will take place at the [International Conference on Biological
+and Biomedical Ontologies
+(ICBO)](https://icbo-conference.github.io/icbo2022/call-for-submissions/)
+in Ann Arbor, Michigan, USA. 
+
+Important dates:
+* Submission: ~~30 August 2022~~
+* Workshop date: 25 September 2022
 
 <!---
 ## Contribute to ROBI
