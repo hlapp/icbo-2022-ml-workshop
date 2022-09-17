@@ -63,6 +63,8 @@ papers, followed by a discussion session.
   iterative inconsistency removal**. *Sarah Alghamdi, Fernando
   Zhapa-Camacho and Robert Hoehndorf*.
 * 3:00 - 3:15: Coffee break
+* 3:15 - 4:15: Panel discussion
+* 4:15: open discussion
 
 
 ## Contribute to ROBI
