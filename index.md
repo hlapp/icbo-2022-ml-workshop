@@ -66,7 +66,7 @@ papers, followed by a discussion session.
 * 3:15 - 4:15: Panel discussion
 * 4:15: open discussion
 
-
+<!---
 ## Contribute to ROBI
 
 We accept submissions of Position or Research Papers (up to 5 pages)
@@ -74,7 +74,7 @@ and Abstracts (1 page). All submissions will be considered for oral
 presentation.
 
 Submission link: [Easychair link](https://easychair.org/conferences/?conf=robi2022)
-
+-->
 
 ## Organizing Committee and Contact
 
