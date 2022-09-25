@@ -48,7 +48,7 @@ papers, followed by a discussion session.
   from A Comprehensive Literature Review** *Asiyah Lin, Andrey Ibrahim
   Seleznev, Tianming "Danny" Ning, Paulene Grier, Lalisa Mariam Lin,
   Christopher Travieso, Jaleal Sanjak, Ansu Chatterjee*
-* 2:00 - 2:40: **Testing Ontology Embedding Visualization**. *John
+* 2:20 - 2:40: **Testing Ontology Embedding Visualization**. *John
   Kausch*
 * 2:40 - 3:00: **Ontology Alignment through graph projection, machine learning, and
   iterative inconsistency removal**. *Sarah Alghamdi, Fernando
